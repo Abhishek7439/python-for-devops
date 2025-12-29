@@ -1,0 +1,18 @@
+[
+    {
+        "city": "Nagpur",
+        "state": "Maharashtra",
+        "country": "IN",
+        "aqi": 194,
+        "status": "\ud83d\udfe0 Unhealthy for sensitive people",
+        "timestamp": "2025-12-30 02:10:18"
+    },
+    {
+        "city": "Ashok Vihar, Delhi",
+        "state": "Delhi",
+        "country": "IN",
+        "aqi": 437,
+        "status": "\ud83d\udd34 Unhealthy \u2014 Limit outdoor activity",
+        "timestamp": "2025-12-30 02:11:31"
+    }
+]
